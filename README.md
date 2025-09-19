@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-OpenAI. ChatGPT (GPT-5 Thinking). 2025. 12 Sep. version. chat.openai.com.
+OpenAI. ChatGPT (GPT-5 Thinking). 2025. 19 Sep. version. chat.openai.com.
 
 ## Verbal Collaboration
 
